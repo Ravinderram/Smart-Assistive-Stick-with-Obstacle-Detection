@@ -1,4 +1,4 @@
-# Smart-Assistive-Stick-with-Obstacle-Detection
+# Smart-Assistive-System-with-Obstacle-Detection
 ## Overview 
 The Smart Assistive Stick is an innovative project designed to assist visually impaired individuals. It features an ultrasonic sensor for detecting obstacles, a DFPlayer Mini module for providing audio feedback, and a servo motor for mechanical movement. The system alerts users to nearby obstacles, enhancing mobility and ensuring safety.
 
